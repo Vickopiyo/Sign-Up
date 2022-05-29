@@ -146,3 +146,9 @@ button {
 
        
    }
+   h1{
+       color: #ae00af;
+       text-shadow: 5px 5px 10px  #2196f3;
+       font-size: 2rem;
+       margin-left: 100px;
+   }
